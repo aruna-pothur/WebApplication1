@@ -7,6 +7,11 @@ namespace AzureWebAPIWSD
 
        [JsonProperty(PropertyName = "id")]
         public string Id { get; set; }
+       
+
+        [JsonProperty(PropertyName = "sapid")]
+        public string SapId { get; set; }
+
         [JsonProperty(PropertyName = "name")]
         public string Name { get; set; }
         [JsonProperty(PropertyName = "designation")]
