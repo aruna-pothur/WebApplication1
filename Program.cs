@@ -30,7 +30,7 @@ app.MapControllers();
 app.Run();
 
 public static class cosmosDB
-{
+{ 
 
     public static async Task<CosmosDbService> InitializeCosmosClientInstanceAsync(IConfigurationSection configurationSection)
     {
