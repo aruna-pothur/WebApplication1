@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "1AYAYkqr3ej8kbqdORVmYl1QuaaYbRlzxC0CpihD4w8=",
+  "Source": "AzureWebAPIWSD",
+  "BasePath": "_content/AzureWebAPIWSD",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
