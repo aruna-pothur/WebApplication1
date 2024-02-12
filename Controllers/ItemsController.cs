@@ -3,7 +3,7 @@
 namespace AzureWebAPIWSD.Controllers
 {
     //test1
-    [Route("api/users")]
+    [Route("api/items")]
     [ApiController]
     public class ItemsController : Controller
     {
